@@ -1,7 +1,13 @@
-##
+![header](https://capsule-render.vercel.app/api?type=slice&color=D3D3D3&height=300&section=header&text=KangMin%20Jung%20&fontAlign=80&fontSize=40&fontColor=474747&animation=twinkling)
+<h3 align="center">
 
+
+
+  
+  
 <img src="https://user-images.githubusercontent.com/82854823/135563516-7c4169f6-e507-45a1-9abd-54411c587241.png" width="6%" height="6%">
-🌱 
+
+  🌱 
 
 ## Stack
 

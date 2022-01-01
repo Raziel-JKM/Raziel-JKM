@@ -10,7 +10,25 @@
 <h3 align="left">
  👻 Hello ! 
   
+ 
+
+ ***
+  Blog
+- [Velog](https://velog.io/@raziel)
+- [Tistory](https://sefer-raziel.tistory.com/)
   
+ ***
+ Stack
+ - Python
+ - OpenCV
+ - 
+ 
+ ***
+ Training Institution
+ - CoseStates
+ - AIFFEL x SeSac
+ 
+ <h3 align="middle">
   
 
   

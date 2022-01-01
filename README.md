@@ -14,7 +14,7 @@
  ***
   Blog
 - [Velog](https://velog.io/@raziel)
-- [Tistory](https://sefer-raziel.tistory.com/)
+- [Tistory](https://sefer-raziel.tistory.com/)(Old)
   
  ***
  Stack

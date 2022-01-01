@@ -12,15 +12,14 @@
  
 
  ***
-  Blog
-- [Velog](https://velog.io/@raziel)
-- [Tistory](https://sefer-raziel.tistory.com/)(Old)
+ - Mail : Jeongkm0127@kakao.com
+ - [Blog](https://sefer-raziel.tistory.com)
   
  ***
  Stack
  - Python
  - OpenCV
- - 
+ 
  
  ***
  Training Institution

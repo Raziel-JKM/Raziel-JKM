@@ -13,7 +13,7 @@
 
  ***
  - Mail : Jeongkm0127@kakao.com
- - [Blog](https://sefer-raziel.tistory.com)
+ - Blog : https://sefer-raziel.tistory.com
   
  ***
  Stack

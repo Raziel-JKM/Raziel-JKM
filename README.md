@@ -19,6 +19,8 @@
  Stack
  - Python
  - OpenCV
+ - Pnadas
+ - Matplotlib
  
  
  ***

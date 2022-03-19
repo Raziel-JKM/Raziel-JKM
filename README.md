@@ -14,7 +14,7 @@
  ***
  - Mail : Jeongkm0127@kakao.com
  - Blog : https://velog.io/@raziel
-  
+ - [Notion Portfolio](https://sefer-raziel.notion.site/Portfolio-75bcfe4ea6d94e658b422ede5e9cbf4d)
  ***
  Stack
  - Python
@@ -35,7 +35,7 @@
 ***
   ![image](https://user-images.githubusercontent.com/82854823/159135755-5ea08a79-71ea-45e0-b6df-8d22fd5a3cff.png)
   
-  Working at Modulabs
+  Working at [Modulabs](https://modulabs.co.kr/)
   
   
   

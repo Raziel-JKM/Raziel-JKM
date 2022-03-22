@@ -12,7 +12,7 @@
  
 
  ***
- - Mail : Jeongkm0127@kakao.com
+ - Mail : kangmin.jeong@modulabs.co.kr
  - Blog : https://velog.io/@raziel
  - [Notion Portfolio](https://sefer-raziel.notion.site/Portfolio-75bcfe4ea6d94e658b422ede5e9cbf4d)
  ***

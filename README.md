@@ -26,7 +26,7 @@
  
  ***
  Training Institution
- - CoseStates
+ - CodeStates
  - AIFFEL x SeSAC
  - ELICE
  <h3 align="middle">

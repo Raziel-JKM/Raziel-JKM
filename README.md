@@ -12,8 +12,8 @@
  
 
  ***
- - Mail : kangmin.jeong@modulabs.co.kr
- - Blog : https://velog.io/@raziel
+ - Mail : raxiel@yonsei.ac.kr
+ - Blog : https://raziel.oopy.io/
  - [Notion Portfolio](https://sefer-raziel.notion.site/Portfolio-75bcfe4ea6d94e658b422ede5e9cbf4d)
  ***
  Stack

@@ -33,9 +33,7 @@
   
 
 ***
-  ![image](https://user-images.githubusercontent.com/82854823/159135755-5ea08a79-71ea-45e0-b6df-8d22fd5a3cff.png)
 
-  
   
 <!--
 **Raziel-JKM/Raziel-JKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
